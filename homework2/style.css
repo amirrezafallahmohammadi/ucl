@@ -1,0 +1,18 @@
+body{background-color: navy; color: whitesmoke;}
+.row{height: 50px;width: 100%;}
+.one{background-color: navy; color:whitesmoke; font-size: larger;}  
+.two{background-color: navy; color: whitesmoke; font-size: larger;} 
+.three{background-color: navy; color: whitesmoke; font-size: larger;} 
+.four{background-color: navy; color: whitesmoke; font-size: larger;} 
+.top{
+    display: flex;
+    justify-content: center;}
+    a:hover{
+        background-color: white;
+    }
+    .best{
+        display: flex; flex-wrap: wrap;
+    }
+    .scorer{ width: 50%;}
+    .zero{
+        background-color: black; color: white;}
